@@ -1,4 +1,4 @@
-### Welcome to my `The Room of Requirement` 👋
+### Welcome chat with my QQ`752562065` 👋
 
 <img align=right height=115 src='http://n.sinaimg.cn/sinacn/w638h640/20180131/1303-fyrcsrw1209498.jpg'/>
 
@@ -9,7 +9,6 @@
  |  _  |  __/ | | (_) \ V  V / (_) | |  | | (_| |
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
  ```
-
 
 Here are some ideas to get you started:
 
@@ -22,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="tencent://message/?uin=752562065"><img src="http://wpa.qq.com/pa?p=1:709504806:4" border=”0″>Calvin</a>
